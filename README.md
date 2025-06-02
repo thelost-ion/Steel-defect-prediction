@@ -18,5 +18,8 @@ This project uses various machine learning models to detect surface defects in s
 ## Evaluation
 ROC-AUC was used to evaluate model performance.
 
+## Post Script
+DED is just a test coloumn I have created for testing purposes
+
 ## Author
 Divyanshu Ojha
