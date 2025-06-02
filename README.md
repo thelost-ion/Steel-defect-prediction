@@ -3,7 +3,7 @@
 This project uses various machine learning models to detect surface defects in steel from structured tabular data. Models include Decision Trees, Random Forests, XGBoost, and more.
 
 ## Files
-- `steel_defect_detection.ipynb`: The main notebook with all analysis and modeling.
+- `Project.ipynb`: The main notebook with all analysis and modeling.
 - `submission.csv`: Final submission file with predicted probabilities.
 
 ## Defect Categories
